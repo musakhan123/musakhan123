@@ -9,7 +9,7 @@ CS student @ IMSciences, Peshawar | AI/ML Enthusiast | Gamer & Football Fan ⚽�
 - 🔭 Currently exploring **Machine Learning, Deep Learning & NLP**
 - 🧠 Interested in **AI systems & Data Science**
 - 💬 Ask me about **Python, ML models, Assembly Language, or Database Systems**
-- 📫 Reach me at: your@email.com
+- 📫 Reach me at: musakhan20006@gmail.com/bscs.240303220@imsciences.edu.pk
 
 ---
 
