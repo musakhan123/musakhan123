@@ -32,9 +32,7 @@ university proposals, and formatted reports. I work with packages like `geometry
 ---
 
 ## 📊 GitHub Stats
-
-![Musa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=musakhan123&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=musakhan123&layout=compact&theme=tokyonight)
+![Visitors](https://komarev.com/ghpvc/?username=musakhan123&color=blue&style=for-the-badge)
 
 ---
 
